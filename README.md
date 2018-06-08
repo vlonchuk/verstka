@@ -1,2 +1,1 @@
-# verstka
-verstka
+Обучение по верстке у erodionov
